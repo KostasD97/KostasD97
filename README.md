@@ -1,26 +1,7 @@
-### Technologies
-
-### Technologies
-
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-### Official Logo Image
-
-### Short Description
-
-### Hyperlink References 
-
-### Software Licence
-
+### Assignment 01
 
 | ID | Technology | Logo | Description | Hyperlink | License |
 |----|------------|------|-------------|-----------|---------|
-|1.  | .Net Core  | netcore.png | adsadsadadsa| asdasdadad|123123123| 
+|1.  | .Net Core  | <img src="https://github.com/KostasD97/C-tests/assets/73329420/e635368d-83be-4f05-bf4f-339b06c2a12f" width="300" height="300"> | adsadsadadsa| asdasdadad | 123123123 | 
+
+<img src="https://github.com/KostasD97/C-tests/assets/73329420/e635368d-83be-4f05-bf4f-339b06c2a12f" width="300" height="300">
