@@ -1,6 +1,26 @@
-# C-tests
-Config files for my GitHub profile.
+### Technologies
 
-Some experimental code examples I've created during my time at the prograduate life !!!
+### Technologies
 
-### Hi there
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+### Official Logo Image
+
+### Short Description
+
+### Hyperlink References 
+
+### Software Licence
+
+
+| ID | Technology | Logo | Description | Hyperlink | License |
+|----|------------|------|-------------|-----------|---------|
+|1.  | .Net Core  | netcore.png | adsadsadadsa| asdasdadad|123123123| 
