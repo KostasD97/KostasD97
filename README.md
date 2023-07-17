@@ -2,4 +2,4 @@
 
 | ID | Technology | Logo | Description | Hyperlink | License |
 |----|------------|:------:|-------------|-----------|---------|
-|1.  | .Net Core  | <img src="https://github.com/KostasD97/C-tests/assets/73329420/929553ed-153e-455b-91d0-89e51ca1e1a9" width="30" height="30"> | adsadsadadsa| asdasdadad | 123123123 | 
+|1.  | .Net Core  | <img src="netcore.png" width="30" height="30"> | A cross-platform and open-source framework, . NET Core is best when developing applications on any platform. . NET Core is used for cloud applications or refactoring large enterprise applications into microservices. You should use . | https://dotnet.microsoft.com/en-us/ | 123123123 | 
