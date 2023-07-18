@@ -7,7 +7,7 @@
 ## Technology Categories
 
 ### Technology Category: 
-#### [.Net Core]
+#### [.Net Core]()
 #### Term 2
 ...
 ### Technology Category N
