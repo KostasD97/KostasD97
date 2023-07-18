@@ -1,23 +1,152 @@
 ##### Assignment 01
 
-## Technology Categories
-
 # Report Title
-## Table of Contents
-## Technology Categories
-
-### Technology Category: 
-#### [.Net Core]()
-#### Term 2
 ...
-### Technology Category N
-#### Term M1
-#### Term M2
+## Table of Contents
 ...
 ## Changelog
 ...
 ## Miscellaneous Notes
 ...
+
+### JavaScript Technologies:
+
+#### Angular
+#### D3.js
+#### Gulp 
+#### jQuery
+#### Leaflet
+#### Lodash
+#### Moment.js
+#### Node.js
+#### Nx
+#### React
+#### RxJS
+#### Sass (stylesheet language)
+#### TypeScript
+#### Vue.js
+
+### Database Technologies:
+
+#### Cassandra
+#### CouchDB
+#### Elasticsearch
+#### InfluxDB
+#### MongoDB
+#### Prisma (ORM)
+#### RAVENDB
+#### Redis
+#### RethinkDB
+#### Solr
+
+### Web Development Technologies:
+
+#### .NET Core
+#### Blazor
+#### Bootstrap
+#### Cordova
+#### Drupal
+#### Entity Framework
+#### Gatsby
+#### Go
+#### Grav
+#### Heroku
+#### Hugo
+#### Jekyll
+#### Next.js
+#### Nuxt.js
+#### Polymer
+#### Ruby on Rails
+#### Svelte
+#### Symfony
+#### WordPress
+#### Xamarin
+
+### Networking and Security Technologies:
+
+#### Apache HTTP Server
+#### Fiddler
+#### Hyper-V
+#### Nagios
+#### Nmap
+#### pfSense
+#### Telegraf
+#### Wireshark
+
+### Virtualization and Containerization Technologies:
+
+#### Docker
+#### Hyper-V
+#### VirtualBox
+#### XCP-ng
+
+### Monitoring and DevOps Technologies:
+
+#### Grafana
+#### Nagios
+#### Prometheus
+#### Telegraf
+
+### Content Management Technologies:
+
+#### Alfresco
+#### AtoM
+#### Drupal
+#### Koha
+#### Omeka
+#### SharePoint
+#### Statamic
+#### WordPress
+
+### Machine Learning and Data Science Technologies:
+
+#### Mahout
+#### TensorFlow
+
+### Version Control and Package Management Technologies:
+
+#### Bower
+#### Chocolatey
+#### NuGet
+#### npm
+
+### Business Intelligence and Analytics Technologies:
+
+#### PowerBI
+#### Superset
+
+### API and Web Service Technologies:
+
+#### GraphQL
+#### OData
+#### REST
+#### SOAP (Simple Object Access Protocol)
+
+### Big Data and Analytics Technologies:
+
+#### Hadoop
+#### InfluxDB
+#### Kafka
+#### Solr
+### UI and Front-end Development Technologies:
+
+#### Angular
+#### Blazor
+#### Bootstrap
+#### D3.js
+#### jQuery
+#### Leaflet
+#### Polymer
+#### React
+#### Svelte
+#### Vue.js
+
+### Internet of Things (IoT) Technologies:
+
+Home Assistant
+Internet of Things (IoT)
+
+
 
 <!-- to 2. dn exw vrei to repo kai license key -->
 
